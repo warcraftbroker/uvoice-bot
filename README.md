@@ -9,7 +9,7 @@ It will also grant elevated permissions to the user who created the voice channe
 
 ## Project setup
 ```
-1. clone repositry 
+1. clone repository 
 2. npm install
 3. setup .env file for CLIENT_TOKEN, CLIENT_ID, GUILD_ID and CHANNEL_CATEGORY_ID
 4. execute 'node deploy-commands.js'
